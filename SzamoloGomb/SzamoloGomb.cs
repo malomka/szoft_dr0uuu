@@ -19,6 +19,9 @@ namespace SzamoloGomb
         private void SzamoloGomb_MouseClick(object? sender, MouseEventArgs e)
         {
             szam++;
+            if (szam == 6) {
+                szam = 1;
+            }
             Text=szam.ToString();
         }
     }
