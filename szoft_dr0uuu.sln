@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fibonacci", "fibonacci\fibo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pascal", "Pascal\Pascal.csproj", "{1907354F-40D4-4769-BBFE-ECB041A74243}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "villogogomb", "villogogomb\villogogomb.csproj", "{26708A3C-FFBC-4F03-BC47-5E741A510591}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "villogogomb", "villogogomb\villogogomb.csproj", "{26708A3C-FFBC-4F03-BC47-5E741A510591}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SzamoloGomb", "SzamoloGomb\SzamoloGomb.csproj", "{17724ED1-0A89-4FFF-97E8-E5FD80E06099}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SzamoloGomb", "SzamoloGomb\SzamoloGomb.csproj", "{17724ED1-0A89-4FFF-97E8-E5FD80E06099}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hajos_kviz", "hajos_kviz\hajos_kviz.csproj", "{AD82F448-7DA9-4939-814E-09BD27233EF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{17724ED1-0A89-4FFF-97E8-E5FD80E06099}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17724ED1-0A89-4FFF-97E8-E5FD80E06099}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17724ED1-0A89-4FFF-97E8-E5FD80E06099}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD82F448-7DA9-4939-814E-09BD27233EF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD82F448-7DA9-4939-814E-09BD27233EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD82F448-7DA9-4939-814E-09BD27233EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD82F448-7DA9-4939-814E-09BD27233EF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
